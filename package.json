@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/shiva11111/cssExample#readme",
   "devDependencies": {
-    "node-sass": "^4.13.0"
+    "node-sass": "^7.0.0"
   }
 }
